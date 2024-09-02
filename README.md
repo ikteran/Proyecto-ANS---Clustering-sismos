@@ -11,6 +11,10 @@
 <p>Distribución espacial de los datos de sismicidad utilizados en el proyecto</p>
 </label>
 
+**¿Sabías que Colombia tiene más de 2000 sismos al mes?** Estos eventos pueden impactar significativamente en la infraestructura y la seguridad de sus habitantes. Por ello, nosotros, estudiantes del MIAD de Uniandes, hemos desarrollado este proyecto para analizar los catálogos de sismicidad. La agrupación de estos eventos puede ofrecer valiosas perspectivas para generar modelos de Machine Learning sobre la actividad sísmica, contribuyendo así a la gestión de riesgos y a la planificación preventiva.
+
+<p align="center"> <img src="https://github.com/ikteran/Proyecto-ANS-Clustering-sismos/blob/main/data/mapa_sismicidad.png" width="300" height="400" alt="Distribución espacial de los datos de sismicidad utilizados en el proyecto"> <br> <small>Distribución espacial de los datos de sismicidad utilizados en el proyecto</small> </p>
+
 
 # Metodologia
 
