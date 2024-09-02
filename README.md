@@ -105,12 +105,12 @@ La base de datos contiene 96177 resgistros sísmicos superficiales (menor a 30km
 A continuación, te compartimos algunos artículos científicos que exploramos para este proyecto:
 
 <ol>
-    <li><strong>Gracia, M. D.</strong> (2017). <em>Seismotectonic characterization of the Colombian Pacific region: Identification of tectonic patterns through geostatistical analysis</em> (Undergraduate thesis). Universidad de los Andes, School of Sciences, Faculty of Geosciences.</li>
+<li><strong>Gracia, M. D.</strong> (2017). <em>Seismotectonic characterization of the Colombian Pacific region: Identification of tectonic patterns through geostatistical analysis</em> (Undergraduate thesis). Universidad de los Andes, School of Sciences, Faculty of Geosciences.</li>
 
-    <li><strong>Mato, F., & Toulkeridis, T.</strong> (2017). An unsupervised K-means based clustering method for geophysical post-earthquake diagnosis. <em>2017 IEEE Symposium Series on Computational Intelligence (SSCI)</em>, 1–8. <a href="https://doi.org/10.1109/SSCI.2017.8285216" target="_blank">https://doi.org/10.1109/SSCI.2017.8285216</a></li>
+<li><strong>Mato, F., & Toulkeridis, T.</strong> (2017). An unsupervised K-means based clustering method for geophysical post-earthquake diagnosis. <em>2017 IEEE Symposium Series on Computational Intelligence (SSCI)</em>, 1–8. <a href="https://doi.org/10.1109/SSCI.2017.8285216" target="_blank">https://doi.org/10.1109/SSCI.2017.8285216</a></li>
 
-    <li><strong>Novianti, P., Setyorini, D., & Rafflesia, U.</strong> (2017). K-Means cluster analysis in earthquake epicenter clustering. <em>International Journal of Advances in Intelligent Informatics</em>, 3(2), 81. <a href="https://doi.org/10.26555/ijain.v3i2.100" target="_blank">https://doi.org/10.26555/ijain.v3i2.100</a></li>
+<li><strong>Novianti, P., Setyorini, D., & Rafflesia, U.</strong> (2017). K-Means cluster analysis in earthquake epicenter clustering. <em>International Journal of Advances in Intelligent Informatics</em>, 3(2), 81. <a href="https://doi.org/10.26555/ijain.v3i2.100" target="_blank">https://doi.org/10.26555/ijain.v3i2.100</a></li>
 
-    <li><strong>Yuan, R.</strong> (2021). An improved K-means clustering algorithm for global earthquake catalogs and earthquake magnitude prediction. <em>Journal of Seismology</em>, 25(3), 1005–1020. <a href="https://doi.org/10.1007/s10950-021-09999-8" target="_blank">https://doi.org/10.1007/s10950-021-09999-8</a></li>
+<li><strong>Yuan, R.</strong> (2021). An improved K-means clustering algorithm for global earthquake catalogs and earthquake magnitude prediction. <em>Journal of Seismology</em>, 25(3), 1005–1020. <a href="https://doi.org/10.1007/s10950-021-09999-8" target="_blank">https://doi.org/10.1007/s10950-021-09999-8</a></li>
 </ol>
 
