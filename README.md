@@ -7,14 +7,14 @@
 <img src='https://th.bing.com/th/id/OIG1.myqeDETCLRxvaLgZ9YVR?pid=ImgGn'>
 
 
-# Metodologia
+## Metodologia
 
 Este estudio se enfoca en aplicar técnicas de aprendizaje no supervisado para agrupar los eventos sísmicos en Colombia entre 2009 y 2024. Nuestro objetivo es identificar patrones en la distribución de los sismos que puedan ayudar a modelar la actividad sísmica para preveer terremotos.
 
 Usamos datos proporcionados por el <a href=': http://bdrsnc.sgc.gov.co/paginas1/catalogo/index.php'>Servicio Geológico Colombiano</a> aprendizaje no supervisado debido a la naturaleza compleja y no etiquetada de los datos sísmicos. Este estudio pertenece al área de clustering. Al aplicar estas tecnicas, esperamos descubrir estructuras y patrones significativos en los datos, aportando así soluciones prácticas y valiosas para la gestión del riesgo sísmico en Colombia.
 
 
-# Hablemos de datos
+## Hablemos de datos
 
 La base de datos posee 96177 muestras de fallas activas con potencial de causar daños siginificativos (menores a 30km de profundidad) ocurridos entre 1993-2024:
 
