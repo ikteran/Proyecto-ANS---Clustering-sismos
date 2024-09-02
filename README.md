@@ -1,11 +1,11 @@
-<img src='https://industrial.uniandes.edu.co/sites/default/files/miad.jpg' width="440" height="200" alt="Image">
+<img src='https://industrial.uniandes.edu.co/sites/default/files/miad.jpg' width="600" height="200" alt="Image">
 
 # Agrupación espacio-temporal de sismos en Colombia
 
 **¿Sabias que Colombia tiene mas de 2000 sismos al mes?**. Estos eventos pueden impactar significativamente en la infraestructura y la seguridad de sus habitantes. Es por esto que nosotros, estudiantes del MIAD de Uniandes liberamos este proyecto que busca analizar los catálogos de sismicidad. La agrupación de estos puede ofrecer valiosas aproximaciones para generar modelos de Machine Learning de la actividad sísmica, contribuyendo a la gestión de riesgos y planificación preventiva.
 
 <label>
-<img src='https://github.com/ikteran/Proyecto-ANS-Clustering-sismos/blob/main/results/Cluster_K_means.png?raw=true'>
+<img src='https://github.com/ikteran/Proyecto-ANS-Clustering-sismos/blob/main/data/mapa_sismicidad.png'>
 <p>Resultado del modelo agrupando los sismos</p>
 </label>
 
