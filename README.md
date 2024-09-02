@@ -1,1 +1,1 @@
-# Proyecto-ANS---Clustering-sismos
+# Agrupación espaciotemporal de sismos ocurridos en Colombia
