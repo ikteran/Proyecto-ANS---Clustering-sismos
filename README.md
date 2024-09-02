@@ -1,31 +1,30 @@
-<img src='https://industrial.uniandes.edu.co/sites/default/files/miad.jpg' width="440" height="200" alt="Image">
+<p align="center">
+  <img src="https://industrial.uniandes.edu.co/sites/default/files/miad.jpg" width="300" height="100" alt="Image">
+</p>
 
 # Agrupación espacio-temporal de sismos en Colombia
 
-**¿Sabias que Colombia tiene mas de 2000 sismos al mes?**. Estos eventos pueden impactar significativamente en la infraestructura y la seguridad de sus habitantes. Es por esto que nosotros, estudiantes del MIAD de Uniandes liberamos este proyecto que busca analizar los catálogos de sismicidad. La agrupación de estos puede ofrecer valiosas aproximaciones para generar modelos de Machine Learning de la actividad sísmica, contribuyendo a la gestión de riesgos y planificación preventiva.
+**¿Sabías que Colombia tiene más de 2000 sismos al mes?** Estos eventos pueden impactar significativamente en la infraestructura y la seguridad de sus habitantes. Por ello, nosotros, estudiantes del MIAD de Uniandes, hemos desarrollado este proyecto para analizar los catálogos de sismicidad. La agrupación de estos eventos puede ofrecer valiosas perspectivas para generar modelos de Machine Learning sobre la actividad sísmica, contribuyendo así a la gestión de riesgos y a la planificación preventiva.
 
-<label>
-<img src='https://github.com/ikteran/Proyecto-ANS-Clustering-sismos/blob/main/results/Cluster_K_means.png?raw=true'>
-<p>Resultado del modelo agrupando los sismos</p>
-</label>
+<p align="center"> <img src="https://github.com/ikteran/Proyecto-ANS-Clustering-sismos/blob/main/data/mapa_sismicidad.png" width="300" height="400" alt="Distribución espacial de los datos de sismicidad utilizados en el proyecto"> <br> <small>Distribución espacial de los datos de sismicidad utilizados en el proyecto</small> </p>
 
 
-# Metodologia
+# Metodología
 
-Este estudio se enfoca en aplicar técnicas de aprendizaje no supervisado para agrupar los eventos sísmicos en Colombia entre 2009 y 2024. Nuestro objetivo es identificar patrones en la distribución de los sismos que puedan ayudar a modelar la actividad sísmica para preveer terremotos.
+Este estudio se enfoca en aplicar técnicas de aprendizaje no supervisado para agrupar los eventos sísmicos en Colombia entre 2009 y 2024. Nuestro objetivo es identificar patrones en la distribución de los sismos que puedan ayudar a modelar la actividad sísmica.
 
-Usamos datos proporcionados por el <a href=': http://bdrsnc.sgc.gov.co/paginas1/catalogo/index.php'>Servicio Geológico Colombiano</a> aprendizaje no supervisado debido a la naturaleza compleja y no etiquetada de los datos sísmicos. Este estudio pertenece al área de clustering. Al aplicar estas tecnicas, esperamos descubrir estructuras y patrones significativos en los datos, aportando así soluciones prácticas y valiosas para la gestión del riesgo sísmico en Colombia.
+Utilizamos datos proporcionados por el <a href="http://bdrsnc.sgc.gov.co/paginas1/catalogo/index.php">Servicio Geológico Colombiano</a>. Optamos por el aprendizaje no supervisado debido a la naturaleza compleja y no etiquetada de los datos sísmicos. Este estudio se enmarca en el área de clustering. Al aplicar estas técnicas, esperamos descubrir estructuras y patrones significativos en los datos, aportando así soluciones prácticas y valiosas para la gestión del riesgo sísmico en Colombia.
 
 
 # Hablemos de datos
 
-La base de datos posee 96177 muestras de fallas activas con potencial de causar daños siginificativos (menores a 30km de profundidad) ocurridos entre 1993-2024:
+La base de datos contiene 96177 resgistros sísmicos superficiales (menor a 30km de profundidad), los cuales son interesantes ya que tienen un mayor potencial de causar daños siginificativos. A continuación se describen las variables:
 
 <table>
     <tr>
       <th>Variable</th>
       <th>Tipo de Variable</th>
-      <th>Descripcion</th>
+      <th>Descripción</th>
     </tr>
     <tr>
       <td>Fecha</td>
@@ -96,7 +95,22 @@ La base de datos posee 96177 muestras de fallas activas con potencial de causar 
 
 # Navegación
 
-- <b>data:</b> Encuentras los datasets del modelo
-- <b>document:</b> Hallas los papers y documentación de los hallazgos
-- <b>results:</b> Encontraras imagenes de los resultaados del modelo
+- <b>data:</b> Se encuentra la base de datos utilizada en formato csv
+- <b>document:</b> Está la documentación de los hallazgos
+- <b>results:</b> Se encuentran los archivos e imagenes obtenidas a partir de los resultados
 - <b>scripts:</b> Visita nuestro documento de Jupyter donde verás el proceso a detalle.
+
+# Referencias
+
+A continuación, te compartimos algunos artículos científicos que exploramos para este proyecto:
+
+<ol>
+<li><strong>Gracia, M. D.</strong> (2017). <em>Seismotectonic characterization of the Colombian Pacific region: Identification of tectonic patterns through geostatistical analysis</em> (Undergraduate thesis). Universidad de los Andes, School of Sciences, Faculty of Geosciences.</li>
+
+<li><strong>Mato, F., & Toulkeridis, T.</strong> (2017). An unsupervised K-means based clustering method for geophysical post-earthquake diagnosis. <em>2017 IEEE Symposium Series on Computational Intelligence (SSCI)</em>, 1–8. <a href="https://doi.org/10.1109/SSCI.2017.8285216" target="_blank">https://doi.org/10.1109/SSCI.2017.8285216</a></li>
+
+<li><strong>Novianti, P., Setyorini, D., & Rafflesia, U.</strong> (2017). K-Means cluster analysis in earthquake epicenter clustering. <em>International Journal of Advances in Intelligent Informatics</em>, 3(2), 81. <a href="https://doi.org/10.26555/ijain.v3i2.100" target="_blank">https://doi.org/10.26555/ijain.v3i2.100</a></li>
+
+<li><strong>Yuan, R.</strong> (2021). An improved K-means clustering algorithm for global earthquake catalogs and earthquake magnitude prediction. <em>Journal of Seismology</em>, 25(3), 1005–1020. <a href="https://doi.org/10.1007/s10950-021-09999-8" target="_blank">https://doi.org/10.1007/s10950-021-09999-8</a></li>
+</ol>
+
