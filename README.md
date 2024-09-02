@@ -4,34 +4,27 @@
 
 # Agrupación espacio-temporal de sismos en Colombia
 
-**¿Sabias que Colombia tiene mas de 2000 sismos al mes?**. Estos eventos pueden impactar significativamente en la infraestructura y la seguridad de sus habitantes. Es por esto que nosotros, estudiantes del MIAD de Uniandes liberamos este proyecto que busca analizar los catálogos de sismicidad. La agrupación de estos puede ofrecer valiosas aproximaciones para generar modelos de Machine Learning de la actividad sísmica, contribuyendo a la gestión de riesgos y planificación preventiva.
-
-<label>
-<img src='https://github.com/ikteran/Proyecto-ANS-Clustering-sismos/blob/main/data/mapa_sismicidad.png' width="300" height="400" alt="Image">
-<p>Distribución espacial de los datos de sismicidad utilizados en el proyecto</p>
-</label>
-
 **¿Sabías que Colombia tiene más de 2000 sismos al mes?** Estos eventos pueden impactar significativamente en la infraestructura y la seguridad de sus habitantes. Por ello, nosotros, estudiantes del MIAD de Uniandes, hemos desarrollado este proyecto para analizar los catálogos de sismicidad. La agrupación de estos eventos puede ofrecer valiosas perspectivas para generar modelos de Machine Learning sobre la actividad sísmica, contribuyendo así a la gestión de riesgos y a la planificación preventiva.
 
 <p align="center"> <img src="https://github.com/ikteran/Proyecto-ANS-Clustering-sismos/blob/main/data/mapa_sismicidad.png" width="300" height="400" alt="Distribución espacial de los datos de sismicidad utilizados en el proyecto"> <br> <small>Distribución espacial de los datos de sismicidad utilizados en el proyecto</small> </p>
 
 
-# Metodologia
+# Metodología
 
-Este estudio se enfoca en aplicar técnicas de aprendizaje no supervisado para agrupar los eventos sísmicos en Colombia entre 2009 y 2024. Nuestro objetivo es identificar patrones en la distribución de los sismos que puedan ayudar a modelar la actividad sísmica para preveer terremotos.
+Este estudio se enfoca en aplicar técnicas de aprendizaje no supervisado para agrupar los eventos sísmicos en Colombia entre 2009 y 2024. Nuestro objetivo es identificar patrones en la distribución de los sismos que puedan ayudar a modelar la actividad sísmica.
 
-Usamos datos proporcionados por el <a href=': http://bdrsnc.sgc.gov.co/paginas1/catalogo/index.php'>Servicio Geológico Colombiano</a> aprendizaje no supervisado debido a la naturaleza compleja y no etiquetada de los datos sísmicos. Este estudio pertenece al área de clustering. Al aplicar estas tecnicas, esperamos descubrir estructuras y patrones significativos en los datos, aportando así soluciones prácticas y valiosas para la gestión del riesgo sísmico en Colombia.
+Utilizamos datos proporcionados por el <a href="http://bdrsnc.sgc.gov.co/paginas1/catalogo/index.php">Servicio Geológico Colombiano</a>. Optamos por el aprendizaje no supervisado debido a la naturaleza compleja y no etiquetada de los datos sísmicos. Este estudio se enmarca en el área de clustering. Al aplicar estas técnicas, esperamos descubrir estructuras y patrones significativos en los datos, aportando así soluciones prácticas y valiosas para la gestión del riesgo sísmico en Colombia.
 
 
 # Hablemos de datos
 
-La base de datos posee 96177 muestras de fallas activas con potencial de causar daños siginificativos (menores a 30km de profundidad) ocurridos entre 1993-2024:
+La base de datos contiene 96177 resgistros sísmicos superficiales (menor a 30km de profundidad), los cuales son interesantes ya que tienen un mayor potencial de causar daños siginificativos. A continuación se describen las variables:
 
 <table>
     <tr>
       <th>Variable</th>
       <th>Tipo de Variable</th>
-      <th>Descripcion</th>
+      <th>Descripción</th>
     </tr>
     <tr>
       <td>Fecha</td>
