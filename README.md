@@ -1,4 +1,6 @@
-<img src='https://industrial.uniandes.edu.co/sites/default/files/miad.jpg' width="1000" height="70" alt="Image">
+<p align="center">
+  <img src="https://industrial.uniandes.edu.co/sites/default/files/miad.jpg" width="600" height="200" alt="Image">
+</p>
 
 # Agrupación espacio-temporal de sismos en Colombia
 
