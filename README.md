@@ -1,4 +1,4 @@
-<img src='https://industrial.uniandes.edu.co/sites/default/files/miad.jpg' width="1000" height="200" alt="Image">
+<img src='https://industrial.uniandes.edu.co/sites/default/files/miad.jpg' width="1000" height="50" alt="Image">
 
 # Agrupación espacio-temporal de sismos en Colombia
 
@@ -6,7 +6,7 @@
 
 <label>
 <img src='https://github.com/ikteran/Proyecto-ANS-Clustering-sismos/blob/main/data/mapa_sismicidad.png' width="300" height="400" alt="Image">
-<p>Resultado del modelo agrupando los sismos</p>
+<p>Distribución espacial de los datos de sismicidad utilizados en el proyecto</p>
 </label>
 
 
