@@ -4,7 +4,7 @@
 
 **¿Sabias que Colombia tiene aproximadamente mas de 2000 sismos al mes?**. Estos eventos pueden impactar significativamente en la infraestructura y la seguridad de sus habitantes. Es por esto que nosotros, estudiantes de MIAD de Uniandes, liberamos este proyecto que busca analizar los catálogos de sismicidad. La agrupación de estos puede ofrecer valiosas aproximaciones para generar modelos de Machine Learning de la actividad sísmica, contribuyendo a la gestión de riesgos y planificación preventiva.
 
-<img src='https://th.bing.com/th/id/OIG1.myqeDETCLRxvaLgZ9YVR?pid=ImgGn'>
+<img src="https://th.bing.com/th/id/OIG1.myqeDETCLRxvaLgZ9YVR?pid=ImgGn" alt="Mapa ilustrativo, obtenido de https://th.bing.com/th/id/OIG1.myqeDETCLRxvaLgZ9YVR?pid=ImgGn" width="500" height="300">
 
 
 ## Metodologia
